@@ -18,7 +18,13 @@ mvn spring-boot:run
 - Archivo: logs/catalogo.log
 
 ## Evidencias
-- Coloca las capturas en la carpeta `img/`:
-  - img/logs-consola.png
-  - img/logs-archivo.png
-  - img/swagger-ui.png
+
+### Evidencia 1 — Mensajes SLF4J en consola
+![Logs en consola](img/captura1.png)
+
+### Evidencia 2 — Archivo logs/catalogo.log
+![Archivo de log](img/captura2.png)
+
+### Evidencia 3 — Swagger UI
+![Swagger UI](img/captura3.png)
+![Swagger UI](img/captura3.1.png)
